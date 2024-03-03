@@ -253,7 +253,7 @@ body{
         width: 24px;
         height: 24px;
     }
-    .toggle-container p{
+    .container span{
         font-size: 8px;
     }
 }
