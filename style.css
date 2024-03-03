@@ -217,7 +217,7 @@ body{
         padding: 0 20px;
     }
     .container form h1{
-        font-size: 1.2em;
+        font-size: 1.1em;
     }
     .container input{
         margin: 9px 0;
@@ -241,7 +241,7 @@ body{
         padding: 0 15px;
     }
     .social-icons a{
-        width: 32px;
-        height: 32px;
+        width: 30px;
+        height: 30px;
     }
 }
