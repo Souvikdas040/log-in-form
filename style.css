@@ -250,13 +250,13 @@ body{
         font-size: 1em;
     }
     .toggle-container p{
-        font-size: 11px;
+        font-size: 14px;
     }
     .social-icons a{
         width: 24px;
         height: 24px;
     }
     .container span{
-        font-size: 5px;
+        font-size: 2px;
     }
 }
