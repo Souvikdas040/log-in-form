@@ -39,10 +39,10 @@ This project provides a clean, responsive, and polished login page built with HT
 
 ‣ Resources:
   =========
-  HTML Tutorial: https://www.w3schools.com/html/
-  CSS Tutorial: https://www.w3schools.com/css/
-  JavaScript Tutorial: https://www.w3schools.com/js/
-  Responsive Design Tutorial: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Support_issues
+  • HTML Tutorial: https://www.w3schools.com/html/
+  • CSS Tutorial: https://www.w3schools.com/css/
+  • JavaScript Tutorial: https://www.w3schools.com/js/
+  • Responsive Design Tutorial: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Support_issues
 
 ‣ License:
   =======
