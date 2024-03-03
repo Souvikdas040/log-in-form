@@ -1,2 +1,2 @@
-# sign-in-and-up-form
-Responsive Sign In and Sign Up Form UI using HTML, CSS, JS, and PHP
+# Modern Log In Page
+Responsive and Modern Log In Page UI using HTML, CSS, JS, and PHP
