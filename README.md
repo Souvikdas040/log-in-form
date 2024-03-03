@@ -22,7 +22,7 @@ This project provides a clean, responsive, and polished login page built with HT
   Getting Started:
 
   Download the files:
-  Clone the repository using Git (git clone https://your-repository-url.git) or download the ZIP file.
+  Clone the repository using Git (git clone https://github.com/Souvikdas040/log-in-form.git) or download the ZIP file.
   Open the files:
   Open index.html in your web browser to view the login page.
   Customization:
