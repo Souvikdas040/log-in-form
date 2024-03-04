@@ -1,5 +1,5 @@
 # Modern Log In Page
-Responsive and Modern Log In Page UI using HTML, CSS, JS, and PHP
+Responsive and Modern Log In Page UI using HTML, CSS, and JS
 
 ======In Laptop View======
 ![Screenshot 2024-03-03 203039](https://github.com/Souvikdas040/log-in-form/assets/106548388/fd0f4abc-38d3-4900-a86e-52543887e937)
