@@ -209,6 +209,21 @@ body{
     transform: translateX(200%);
 }
 
+@media(max-width: 1024px){
+    .container form h1{
+        font-size: .9em;
+    }
+    .social-icons a{
+        width: 20px;
+        height: 20px;
+    }
+    .container span{
+        font-size: 7.4px;
+    }
+    .form-container a{
+        font-size: 9px;
+    }
+}
 @media(max-width: 768px){
     body{
         padding: 0 4%;
